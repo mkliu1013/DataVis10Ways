@@ -5,7 +5,7 @@ Assignment 2 - Data Visualization, 10 Ways
 
 # 1.Flourish
 
-![fourish](img/Fourish.png>
+![fourish](img/Fourish.png)
 Flourish is an free online data visualization tool to import spreadsheet into charts, maps or interaction stories. It is very convient and user friendly even it is the first time I use it. It's user interface is pretty understandable so let users know how to set parameters, how to do size mapping and color mapping. It is a good tool especially for business users if they are not familiar with coding but would like to make interactive chart.
 
 
