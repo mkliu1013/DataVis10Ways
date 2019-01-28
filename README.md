@@ -14,6 +14,9 @@ Flourish is an free online data visualization tool to import spreadsheet into ch
 ![tableau](img/Tableau.png)
 Tableau is a data visualization tool can create sheets and dashboards. To visualize the dataset, I filered the NA values first, changed x, y axises from defaulted SUM to dimension to show every single dot. To make dots more clear, I changed the default color.
 
+# 3. Excel
+![excel](img/Excel.png)
+Excel has basic features of all spreadsheets. In scatter bubble plot, we can do color mapping and size mapping. But before we insert chart, we need to arrange the data manually, then add it series by series. 
 
 # R + ggplot2 + R Markdown
 
