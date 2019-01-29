@@ -18,6 +18,10 @@ Tableau is a data visualization tool can create sheets and dashboards. To visual
 ![excel](img/Excel.png)
 Excel has basic features of all spreadsheets. In scatter bubble plot, we can do color mapping and size mapping. But before we insert chart, we need to arrange the data manually, then add it series by series. 
 
+# 4. Vega-lite
+![vega-lite](img/Vega-lite.png)
+Vega-lite is the grammer of interactive graphics. It allows us to write directly with concise grammer. 
+
 # R + ggplot2 + R Markdown
 
 R is a language primarily focused on statistical computing.
