@@ -22,7 +22,7 @@ Excel has basic features of all spreadsheets. In scatter bubble plot, we can do 
 ![vega-lite](img/Vega-lite.png)
 Vega-lite is the grammer of interactive graphics. It allows us to write directly with concise grammer. 
 
-# R + ggplot2 + R Markdown
+# 5. R + ggplot2 + R Markdown
 
 ![ggplot2](img/R+ggplot2.png)
 R is a language primarily focused on statistical computing.
