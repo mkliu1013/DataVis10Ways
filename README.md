@@ -22,7 +22,7 @@ Excel has basic features of all spreadsheets. In scatter bubble plot, we can do 
 ![vega-lite](img/Vega-lite.png)
 Vega-lite is the grammer of interactive graphics. It allows us to write directly with concise grammer. 
 
-# 5. R + ggplot2 + R Markdown
+# 5. R + ggplot2
 
 ![ggplot2](img/R+ggplot2.png)
 R is a language primarily focused on statistical computing.
@@ -33,10 +33,13 @@ To visualized the cars dataset, I made use of ggplot2's `geom_point()` layer, wi
 While it takes time to find the correct documentation, these functions made the effort creating this chart minimal.
 
 
-# d3...
+# 6. d3...
 
 (And so on...)
 
+# 7.TIBCO Spotfire
+![TIBCO](img/TIBCO.png)
+Spotfire is the fastest analytics tool for getting insights from data. It is intelligent to do color mapping and size mapping, to change the opacity, just go to visualization properties and change transparency in appearance.
 
 ## Technical Achievements
 - **Proved P=NP**: Using a combination of...
