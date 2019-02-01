@@ -41,6 +41,10 @@ While it takes time to find the correct documentation, these functions made the 
 ![TIBCO](img/TIBCO.png)
 Spotfire is the fastest analytics tool for getting insights from data. It is intelligent to do color mapping and size mapping, to change the opacity, just go to visualization properties and change transparency in appearance.
 
+# 8. Python+Seaborn
+![Python+Seaborn](img/Python+Seaborn)
+
+
 ## Technical Achievements
 - **Proved P=NP**: Using a combination of...
 - **Solved AI Forever**: ...
