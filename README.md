@@ -76,4 +76,4 @@ In this different ways, I think Tableau is the most professional data visualizat
 Using a combination of tool, library, and language. Have tried as many different ways as I can, and explore the function as much as i can of every tool.
 
 ### Design Achievements
-I think the data chart should be concise and east to read, so I keep the each brand value's color is differentiate with each other to make data clear.
+I think the data chart should be concise and east to read, so I keep the each brand value's color differentiate with each other to make data clear.
