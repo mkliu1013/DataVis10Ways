@@ -70,9 +70,10 @@ Power BI is a business analytics service provided by Microsoft. It provides inte
 
 Glue is a python library can create scatter plots for data, but the difference of circle size is too broad, which leads the circles with low value are too small.
 
-In this different ways, I think tool like Tableau is most professional data visualization tools, it doesn't have size issue like Power BI has, users can realize customized design in this tool. Tools like Flourish and TIBCO 
+In this different ways, I think Tableau is the most professional data visualization tools, it doesn't have size issue like Power BI has, users can realize customized design in this tool. Tools like Flourish and Spotfire are easy to use but can't realize too much interaction functions. Using languages is definitely free and customized, but some has high level requirement for coding experience, especially need to switch from one language to another.
+
 ## Technical Achievements
-Using a combination of tool, library, and language. Have tried as many different ways as I can, and explore the function of every tool.
+Using a combination of tool, library, and language. Have tried as many different ways as I can, and explore the function as much as i can of every tool.
 
 ### Design Achievements
 I think the data chart should be concise and east to read, so I keep the each brand value's color is differentiate with each other to make data clear.
