@@ -70,7 +70,12 @@ Power BI is a business analytics service provided by Microsoft. It provides inte
 
 Glue is a python library can create scatter plots for data, but the difference of circle size is too broad, which leads the circles with low value are too small.
 
-# 11. SPSS
+# 11. Matplotlib
+
+![Matplotlib](img/Matplotlib.png)
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. In this case, I also use pandas to load csv data file.
+
+# 12. SPSS
 ![SPSS](img/SPSS.png)
 
 I also tried to use SPSS to finalize all requirements, but unfortunately, seems like that SPSS couldn't do the size mapping to one value. The transparency can be change, but the result couldn't tell difference between before and after. Additionally, the user interface of SPSS are too old to use.
