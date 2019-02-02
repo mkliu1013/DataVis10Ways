@@ -70,6 +70,11 @@ Power BI is a business analytics service provided by Microsoft. It provides inte
 
 Glue is a python library can create scatter plots for data, but the difference of circle size is too broad, which leads the circles with low value are too small.
 
+# 11. SPSS
+![SPSS](img/SPSS.png)
+
+I also tried to use SPSS to finalize all requirements, but unfortunately, seems like that SPSS couldn't do the size mapping to one value. The transparency can be change, but the result couldn't tell difference between before and after. Additionally, the user interface of SPSS are too old to use.
+
 In this different ways, I think Tableau is the most professional data visualization tools, it doesn't have size issue like Power BI has, users can realize customized design in this tool. Tools like Flourish and Spotfire are easy to use but can't realize too much interaction functions. Using languages is definitely free and customized, but some has high level requirement for coding experience, especially need to switch from one language to another.
 
 ## Technical Achievements
