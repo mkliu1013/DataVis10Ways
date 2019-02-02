@@ -59,8 +59,8 @@ Python is an interpreted, high-level, general-purpose programming language. Seab
 
 # 9. Power BI
 
-![Powerbi-1](img/Powerbi-1.png)
-![Powerbi-2](img/Powerbi-2.png)
+![PowerBI-1](img/PowerBI-1.png)
+![PowerBI-2](img/PowerBI-2.png)
 Power BI is a business analytics service provided by Microsoft. It provides interactive visualizations with self-service business intelligence capabilities. However, for this assignment, the biggest problem is that it is aggregate automatically. Even I set the 'Weight' as the size dimension. and drag the scale to the 0%, the bubbles in the chart are still very big and overlapping with each other. I put this issue in the Power BI community, and the support team provide suggestion that I can use variance to weight, but still there is the problem, the bubbles size not scaling by Weight. Here is the link the issue I post:https://community.powerbi.com/t5/Desktop/Scatter-plot-dot-size-issue/m-p/614381/highlight/false#M292851
 
 
